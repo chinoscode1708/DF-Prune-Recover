@@ -1,0 +1,1 @@
+Has all teacher models
