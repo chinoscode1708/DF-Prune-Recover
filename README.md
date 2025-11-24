@@ -1,4 +1,3 @@
-````markdown
 # Zero-Shot Pruning Recovery via DeepInversion
 
 This project implements a pipeline to recover the accuracy of pruned neural networks without accessing the original training data. It uses DeepInversion to generate synthetic data from "Teacher" models and uses Knowledge Distillation to recover "Student" (pruned) models.
